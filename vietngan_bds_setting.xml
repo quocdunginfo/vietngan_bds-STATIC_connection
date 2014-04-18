@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>No comment</comment>
+<entry key="jdbc.username">root</entry>
+<entry key="jdbc.server">127.0.0.1</entry>
+<entry key="jdbc.port">3306</entry>
+<entry key="jdbc.dbname">vietngan_bds</entry>
+<entry key="jdbc.password"/>
+</properties>

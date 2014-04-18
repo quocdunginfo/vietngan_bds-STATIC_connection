@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Chứa thông tin về phiên bản phần mềm hiện tại</comment>
+<entry key="ver.number">1.2</entry>
+<entry key="ver.description">Thông tin về phiên bản hiện tại</entry>
+<entry key="ver.server">http://qd.vietngancash.com/vietngan_bds/version_info.xml</entry>
+<entry key="ver.mainfile">vietngan_bds.jar</entry>
+<entry key="ver.mainfile.md5">5fcf8977a237c11736a0fdd680f3d83c</entry>
+<entry key="ver.libfiles">AbsoluteLayout.jar|commons-codec-1.7.jar|jcalendar-1.4.jar|jdbc-mysql.jar</entry>
+<entry key="ver.libfiles.md5">1df6473a3302b0615b6bc9e8a4db7499|e47ef8e1a0c11e0e7e41704816cda890|0a0863943cf89741c7a0c2721027446d|8dc9300a56e1283b492bdeaafa62771e</entry>
+</properties>
